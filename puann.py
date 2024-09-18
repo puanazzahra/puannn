@@ -4,6 +4,7 @@ import streamlit as st
  
 # Header
 st.header('Puan :sparkles:')
+st.header('220322604060')
 st.subheader('Plot')
  
 x = np.linspace(-2 * np.pi, 2 * np.pi, 1000)  # Generating x values from -2*pi to 2*pi
