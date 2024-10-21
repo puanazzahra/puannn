@@ -56,6 +56,4 @@ with col2:
     ax.set_xticklabels(ax.get_xticklabels(), rotation=30, ha='right')
     ax.tick_params(axis='x', labelsize=15)
  
-    st.pyplot(fig)  
- 
-st.caption('Copyright © Nugroho Adi Pramono 2023')
+    st.pyplot(fig) 
